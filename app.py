@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import sklearn
 from sklearn.ensemble import RandomForestClassifier, ExtraTreesClassifier
 import plotly.express as px
 import numpy as np
