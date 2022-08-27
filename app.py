@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+pip install scikit-learn==0.23.2
 import sklearn
 from sklearn.ensemble import RandomForestClassifier, ExtraTreesClassifier
 import plotly.express as px
